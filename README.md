@@ -1,2 +1,2 @@
 # RedditReplies
-Hopefully the be all, end all reddit reply bot. 
+Hopefully the be all, end all of Reddit Reply bots. 
